@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06519987-a2fc-41c2-bf15-92cf46139ea6" name="Changes" comment="" />
+    <list default="true" id="06519987-a2fc-41c2-bf15-92cf46139ea6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/annonce/jobscraper/database/AnnonceModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/annonce/jobscraper/database/DatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/annonce/jobscraper/ml/ModelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/annonce/jobscraper/ml/ModelTrainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/annonce/jobscraper/scraper/CareerJetScraper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/annonce/jobscraper/scraper/IndeedScraper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/annonce/jobscraper/scraper/JoobleScraper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/annonce/jobscraper/ui/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/annonce/jobscraper/app/AnnonceMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/annonce/jobscraper/database/AnnonceModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/annonce/jobscraper/database/ModelTrainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/annonce/jobscraper/ml/ModelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/annonce/jobscraper/ml/ModelTrainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/annonce/jobscraper/scraper/CareerJetScraper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/annonce/jobscraper/scraper/IndeedScraper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/annonce/jobscraper/scraper/JoobleScraper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/annonce/jobscraper/ui/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/annonce/jobscraper/app/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/annonce/jobscraper/app/AnnonceMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +44,9 @@
   "associatedIndex": 7
 }]]></component>
   <component name="ProjectId" id="2pvymeQLvI6Lk2tiVN2bxVyp1xP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,10 +56,25 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ab/IdeaProjects/ScrappingAnnonces/src/test/java/com/annonce/jobscraper/scraper",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/annonce/jobscraper/scraper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.annonce.jobscraper.scraper" />
+      <recent name="com.annonce.jobscraper.database" />
+      <recent name="com.annonce.jobscraper.ml" />
+      <recent name="com.annonce.jobscraper.app" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -53,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733661005526</updated>
-      <workItem from="1733661006498" duration="1230000" />
+      <workItem from="1733661006498" duration="8043000" />
     </task>
     <servers />
   </component>
