@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06519987-a2fc-41c2-bf15-92cf46139ea6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/annonce/jobscraper/database/AnnonceModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/annonce/jobscraper/database/DatabaseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/annonce/jobscraper/ml/ModelService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/annonce/jobscraper/ml/ModelTrainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/annonce/jobscraper/scraper/CareerJetScraper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/annonce/jobscraper/scraper/IndeedScraper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/annonce/jobscraper/scraper/JoobleScraper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/annonce/jobscraper/ui/GUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/annonce/jobscraper/app/AnnonceMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/annonce/jobscraper/database/AnnonceModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/annonce/jobscraper/database/ModelTrainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/annonce/jobscraper/ml/ModelService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/annonce/jobscraper/ml/ModelTrainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/annonce/jobscraper/scraper/CareerJetScraper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/annonce/jobscraper/scraper/IndeedScraper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/annonce/jobscraper/scraper/JoobleScraper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/annonce/jobscraper/ui/GUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/annonce/jobscraper/app/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/annonce/jobscraper/app/AnnonceMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="06519987-a2fc-41c2-bf15-92cf46139ea6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733661005526</updated>
-      <workItem from="1733661006498" duration="8043000" />
+      <workItem from="1733661006498" duration="8637000" />
     </task>
     <servers />
   </component>
